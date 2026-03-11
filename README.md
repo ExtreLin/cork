@@ -15,7 +15,6 @@ WARNING: Unfortunately, there are a number of known problems with Cork.
 I had fixed some problems in Cork，and my Cork algorithm also be useful when some triangles are coplanar. if you need please contact me.
 
 
-我修复了cork中间的一些问题，提高了Cork的效率，并且使Cork能处理共面的情况，如果有需求请联系我。 -------by ExtreLin
 
 
 Installation
